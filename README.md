@@ -32,6 +32,7 @@ Recommended Mods:
 - Trajectories 
 - MechJeb2
 - KJR (Kerbal Joint Reinforcement)
+- F3's GSE
 
 Changelog:
 
