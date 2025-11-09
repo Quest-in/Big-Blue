@@ -18,7 +18,7 @@ Also Thanks to those who Tested Glenn at Various Stages!
 Dependancies:
 
 - Proveance Aerospace (Needed for BE4s and so Andrews Waterfall Config can attach to it)
-- BDB (For Andrews Plume to use Sound, You don't need if you don't want sound)
+- Simple Adjustable Fairings
 - Community Resource Pack
 - Community Part Fixes
 - Community Part Modules
