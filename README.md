@@ -1,6 +1,6 @@
-Big Blue (New Glenn Mod)
+# Big Blue (New Glenn Mod)
 
-# MESSAGE FROM ANDREW: 
+## MESSAGE FROM ANDREW: 
 
 Please delete：ProvenanceAerospace\Compatibility\WaterfallFX\BE4.cfg
 (This will make the BE4 plume work with Both the Old BE4 and the New BE4 in Prov)
