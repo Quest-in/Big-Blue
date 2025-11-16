@@ -5,7 +5,7 @@
 Please delete：ProvenanceAerospace\Compatibility\WaterfallFX\BE4.cfg
 (This will make the BE4 plume work with Both the Old BE4 and the New BE4 in Prov)
 
-Credits:
+## Credits:
 
 NG Model: 'Questin and BlackDinoShadows
 NG Textures: BlackDinoShadows
