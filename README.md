@@ -20,7 +20,7 @@ Also Thanks to those who Tested Glenn at Various Stages!
 
 - RAF, Isam, Recoleto, F346, Vista, Pablito
 
-Dependancies:
+## Dependancies:
 
 - Proveance Aerospace (Needed for BE4s and so Andrews Waterfall Config can attach to it)
 - Simple Adjustable Fairings
@@ -32,16 +32,16 @@ Dependancies:
 - B9 Part Switch
 - Waterfall
 
-Recommended Mods:
+## Recommended Mods:
 
 - Trajectories 
 - MechJeb2
 - KJR (Kerbal Joint Reinforcement)
 - F3's GSE
 
-Changelog:
+## Changelog:
 
 Version 1: Glenn Added (GS-1, GS-2), No Engines Included, use Proveance for Engines.
 Version 2: TBD
 
-To Donate: buymeacoffee.com/Questining
+## To Donate: buymeacoffee.com/Questining
