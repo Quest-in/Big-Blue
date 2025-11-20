@@ -1,5 +1,7 @@
 # Big Blue (New Glenn Mod)
 
+## Now Discontuined, focusing on Block 2/3 
+
 ## MESSAGE FROM ANDREW: 
 
 Please delete：ProvenanceAerospace\Compatibility\WaterfallFX\BE4.cfg
