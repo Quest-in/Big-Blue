@@ -40,6 +40,7 @@ Also Thanks to those who Tested Glenn at Various Stages!
 - MechJeb2
 - KJR (Kerbal Joint Reinforcement)
 - F3's GSE
+- Gravity Issue (https://spacedock.info/mod/3895/GravityIssue#info)
 
 ## Changelog:
 
