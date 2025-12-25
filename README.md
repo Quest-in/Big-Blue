@@ -1,6 +1,6 @@
 # Big Blue (New Glenn Mod)
 
-## Now Discontuined, focusing on Block 2/3 
+## Now Discontuined, focusing on Block 2/3, plus the extremely toxic behavior from said community, Yea never coming back to this.
 
 ## MESSAGE FROM ANDREW: 
 
